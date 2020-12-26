@@ -1,5 +1,5 @@
 ## Hi there, Edson here ✌️
-:school: Student of System Analysis and Development at <a href="http://fatec.edu.br" target="_blank" >Faculdade de Tecnologia de Americana</a>. 
+:school: Student of System Analysis and Development at Faculdade de Tecnologia de Americana. 
 
 :computer: Currently studing technologies such as: Vue.js, .NET Core and Flutter.
 
